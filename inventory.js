@@ -101,5 +101,11 @@ window.RONDIS_INVENTORY = [
     "type": "اعتباری",
     "price": "5000000",
     "status": "موجود"
+  },
+  {
+    "number": "09116442423",
+    "type": "اعتباری",
+    "price": "5000000",
+    "status": "موجود"
   }
 ];
