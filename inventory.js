@@ -119,5 +119,11 @@ window.RONDIS_INVENTORY = [
     "type": "دائمی",
     "price": "5000000",
     "status": "موجود"
+  },
+  {
+    "number": "09134115341",
+    "type": "دائمی",
+    "price": "5000000",
+    "status": "موجود"
   }
 ];
